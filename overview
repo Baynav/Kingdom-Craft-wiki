@@ -1,1 +1,40 @@
+# Kingdom Craft – Overview
+
+This server is a **persistent, no-reset kingdom simulation** built inside Minecraft.
+
+You don’t grind personal progression endlessly.
+You build a kingdom that leaves a permanent mark on the world.
+
+## Core Ideas
+- The world never resets
+- Kingdoms are the primary identity
+- NPCs run the economy
+- Wars don’t delete progress
+- History matters
+
+## The Core Gameplay Loop
+1. Found a kingdom
+2. Assign NPC workers
+3. Expand infrastructure
+4. Engage in war, diplomacy, and exploration
+5. Leave a historical legacy
+
+## Solo & Small Groups
+Solo and duo players are fully viable.
+Systems normalize efficiency to prevent large groups from overwhelming smaller ones.
+
+## World Integrity
+The world is preserved:
+- No strip mining
+- No terrain griefing
+- No permanent destruction through war
+
+All meaningful change is system-driven.
+
+## Want More Detail?
+- 📦 Economy → `/systems/economy.md`
+- ⚔️ War → `/systems/war.md`
+- 🌍 Realms & Gates → `/systems/realms-and-gates.md`
+- 🏺 Artifacts → `/systems/artifacts.md`
+- 📜 Full Rules → `/canon/canon-v1-0.md`
 
